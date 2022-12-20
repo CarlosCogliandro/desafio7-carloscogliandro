@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Pelota",
+    "description": "Pelota Negra y redonda",
+    "code": "159159",
+    "photo": "https://www.foto.com/foto",
+    "price": 3221,
+    "stock": 12,
+    "id": 1,
+    "timestamp": 321654
+  },
+  {
+    "name": "Monitor",
+    "description": "Monitor 15'",
+    "code": "357357",
+    "photo": "https://www.foto.com/foto",
+    "price": 1258,
+    "stock": 8,
+    "id": 2,
+    "timestamp": 654987
+  }
+]
